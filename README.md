@@ -1,0 +1,2 @@
+# Vibration-Noise-Predictor
+通过一台三合一电驱动系统的NVH台架试验测试数据，建立简单的由壳体表面振动加速度预测近、远场噪声的LSTM神经网络
